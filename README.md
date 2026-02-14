@@ -15,7 +15,7 @@ Amazon places the returns page in a separate location from the main order tabs. 
 
 ### From the Chrome Web Store
 
-(Coming soon)
+**https://bit.ly/amzn-returns-tab**
 
 ### Manual install (developer mode)
 
